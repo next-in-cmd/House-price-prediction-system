@@ -32,7 +32,7 @@ Step#2: Load the data
 
 Step#3: Understand the data
 
-        -drop unnecessary columns
+     
 Step#4: Data Cleaning
         - Check for na values
         - Verify unique values of each column
@@ -42,10 +42,16 @@ Step#4: Data Cleaning
         - Outlier removal using domain knowledge (2bhk price < 3bhk price, size per bhk >= 300 sqft)
         - Outlier removal using standard eviation and mean
         - One Hot encoding
+        
 Step#5: Build Machine Learning Model
+
 Step#6: Testing The model
+
 Step#7: Export the model
+
 Step#8: Export any other important info
+
 Dataset Reference
+
 USA Housing data
 I have also uploaded the csv file in this repository /content/USA_Housing (1).csv
