@@ -12,6 +12,7 @@ Gridsearchcv for hyperparameter tunning
 K fold cross validation
 
 Technology and tools used in this project
+
 Python
 Numpy and Pandas for data cleaning
 Matplotlib for data visualization
@@ -20,12 +21,17 @@ Google Colaboratory Notebook
 Python flask for http server
 HTML/CSS/Javascript for UI
 Steps
+
 We will first build a model using sklearn and linear regression using USA Housing dataset from kaggle.com.
 Second step would be to write a python flask server that uses the saved model to serve http requests.
 Third component is the website built in html and css that allows user to enter home square ft area, bedrooms etc and it will call python Django server to retrieve the predicted price.
+
 Step#1: Import the required libraries
+
 Step#2: Load the data
+
 Step#3: Understand the data
+
         -drop unnecessary columns
 Step#4: Data Cleaning
         - Check for na values
