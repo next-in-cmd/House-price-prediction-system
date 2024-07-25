@@ -43,6 +43,7 @@ Step#4: Data Cleaning
         - Outlier removal using standard eviation and mean
         - One Hot encoding
         
+        
 Step#5: Build Machine Learning Model
 
 Step#6: Testing The model
